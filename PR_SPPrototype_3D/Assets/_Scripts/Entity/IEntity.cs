@@ -119,9 +119,10 @@ public class IEntity : MonoBehaviour {
 
 	#region Damage
 	public int Damage(float baseDamage, float critical, float distance, float range, Vector2 hitPoint, float piercing) {
-		int retDamage = (int)((baseDamage * Mathf.Max(0, GetArmourValue() - piercing) * (critical)) / ((distance / range) + 1));
+		int retDamage = (int)(((baseDamage - Mathf.Max(0, GetArmourValue() - piercing)) * (critical)) / ((distance / range) + 1));
 
 		health -= retDamage;
+		Debug.Log(health);
 
 		return retDamage;
 	}

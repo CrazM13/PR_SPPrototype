@@ -22,6 +22,10 @@ public abstract class IWeapon : MonoBehaviour {
 		return ammoRemaining;
 	}
 
+	private void Start() {
+		Reload();
+	}
+
 	private void Update() {
 		timeRemaining -= Time.deltaTime;
 	}

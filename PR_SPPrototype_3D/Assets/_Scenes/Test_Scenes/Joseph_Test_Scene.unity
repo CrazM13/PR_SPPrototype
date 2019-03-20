@@ -434,6 +434,8 @@ MonoBehaviour:
   laneCreeps:
   - {fileID: 1066551163}
   - {fileID: 239852723}
+  timeBetweenWaves: 30
+  numberOfCreepsPerWave: 4
 --- !u!4 &877557865
 Transform:
   m_ObjectHideFlags: 0
@@ -622,10 +624,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df58eca2fc470f5489dabf18e35d4427, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fireCooldown: 1
+  fireCooldown: 0.5
   maxAmmoClip: 100
   range: 10
-  baseDamagePerBullet: 1
+  baseDamagePerBullet: 6.25
 --- !u!1 &1066551161
 GameObject:
   m_ObjectHideFlags: 0
@@ -949,7 +951,7 @@ MonoBehaviour:
   health: 100
   baseSpeed: 1000
   movementSpeed: 1
-  attackSpeed: 1
+  attackSpeed: 0
   critChance: 0
   loadout: {fileID: 1627382956}
 --- !u!195 &1627382953
@@ -974,6 +976,20 @@ NavMeshAgent:
   m_BaseOffset: 0
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
+--- !u!136 &1627382954
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1627382951}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.5
+  m_Height: 3
+  m_Direction: 1
+  m_Center: {x: 0, y: 1.5, z: 0}
 --- !u!114 &1627382956
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1113,7 +1129,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1696554752}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -87.3, y: 1, z: -112.8}
+  m_LocalPosition: {x: 45.6, y: 1, z: 44.6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1939621409}
@@ -1165,10 +1181,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df58eca2fc470f5489dabf18e35d4427, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fireCooldown: 0.5
+  fireCooldown: 0.25
   maxAmmoClip: 32
   range: 10
-  baseDamagePerBullet: 1
+  baseDamagePerBullet: 6.25
 --- !u!23 &1939621407
 MeshRenderer:
   m_ObjectHideFlags: 0

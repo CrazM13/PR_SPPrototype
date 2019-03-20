@@ -38,7 +38,7 @@ public class Player : IEntity {
 		prevMousePosition = Input.mousePosition;
 
 		// Fireing
-		if (Input.GetAxis("Fire") > 0) EntityManager.instance.SpawnCreeps();//FireWeapon();
+		if (Input.GetAxis("Fire") > 0) FireWeapon();
 
 		// Reload
 		if (Input.GetAxis("Reload") > 0) ReloadWeapon();

@@ -12,13 +12,23 @@ public class EntityManager : MonoBehaviour {
 
 	public ObjectPool[] laneCreeps;
 
+	public float timeBetweenWaves = 1;
+	private float timeLeft = 0;
+
+	public int numberOfCreepsPerWave = 4;
+
 	void Start() {
 		if (!instance) instance = this;
 		else Destroy(this);
 	}
 
 	void Update() {
-		
+		timeLeft -= Time.deltaTime;
+		if (timeLeft <= 0) {
+			timeLeft += timeBetweenWaves;
+
+			for (int i = 0; i < numberOfCreepsPerWave; i++) SpawnCreeps();
+		}
 	}
 
 	public GameObject[] FindAll(EnumTeam team) {
@@ -38,7 +48,7 @@ public class EntityManager : MonoBehaviour {
 			Vector3 targetDir = enemy.transform.position - position;
 			float angle = (Vector3.Angle(targetDir, lookingAt));
 
-			if (angle >= -45 && angle <= 45) {
+			if (angle >= -90 && angle <= 90) {
 				if (target == null) target = enemy.GetComponent<IEntity>();
 				else if (Vector3.Distance(position, target.transform.position) > Vector3.Distance(position, enemy.transform.position)) target = enemy.GetComponent<IEntity>();
 			}
@@ -57,7 +67,7 @@ public class EntityManager : MonoBehaviour {
 
 			IEntity newCreepEntity = newCreep.GetComponent<IEntity>();
 			newCreepEntity.team = good ? EnumTeam.GOOD_GUYS : EnumTeam.BAD_GUYS;
-			((AIBase) newCreepEntity).TargetPoint = lanePoints[!good ? 0 : lanePoints.Length - 1];
+			((AIBase) newCreepEntity).MoveTo(lanePoints[!good ? 0 : lanePoints.Length - 1], true);
 
 			newCreep.transform.position = lanePoints[good ? 0 : lanePoints.Length - 1];
 			if (good) {

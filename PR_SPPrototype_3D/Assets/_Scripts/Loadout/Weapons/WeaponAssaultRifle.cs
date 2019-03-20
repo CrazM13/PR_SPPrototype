@@ -9,7 +9,11 @@ public class WeaponAssaultRifle : IWeapon {
 			ammoRemaining--;
 			timeRemaining = fireCooldown;
 
-			if (Physics.Raycast(new Ray(position, lookingAt), out RaycastHit hit, range)) {
+			Debug.Log(position + " :: " + lookingAt);
+
+			Debug.DrawRay(position, lookingAt.normalized * range, Color.red, 10);
+			if (Physics.Raycast(position, lookingAt, out RaycastHit hit)) {
+				Debug.Log(hit.transform.name);
 				IEntity entity = hit.transform.GetComponent<IEntity>();
 				if (entity) {
 					entity.Damage(baseDamagePerBullet, 1, hit.distance, range, hit.point, 0);
