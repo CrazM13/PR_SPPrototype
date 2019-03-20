@@ -163,3 +163,5 @@ e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: 
 e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
 e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
 e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAETIMEDOUT\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAETIMEDOUT\n
