@@ -1,0 +1,165 @@
+Perforce password is empty. Ignoring login request.
+p1:-1 1 Change 42350 created with 16 open file(s).
+p1:-1 1 Submitting change 42350.
+p1:-1 1 Locking 16 files ...
+p1:-1 1 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Prefabs.meta#1
+p1:-1 1 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes.meta#1
+p1:-1 1 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Jason_Test_Scene.unity#1
+p1:-1 1 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Jason_Test_Scene.unity.meta#1
+p1:-1 1 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Jimmy_Test_Scene.unity#1
+p1:-1 1 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Jimmy_Test_Scene.unity.meta#1
+p1:-1 1 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Joseph_Test_Scene.unity#1
+p1:-1 1 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Joseph_Test_Scene.unity.meta#1
+p1:-1 1 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Rui_Test_Scene.unity#1
+p1:-1 1 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Rui_Test_Scene.unity.meta#1
+p1:-1 1 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts.meta#1
+p1:-1 1 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/Effects.meta#1
+p1:-1 1 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/Materials.meta#1
+p1:-1 1 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/Models.meta#1
+p1:-1 1 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/Sound.meta#1
+p1:-1 1 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/Textures.meta#1
+p1:-1 1 Change 42350 submitted.
+p1:-1 0 Change 42351 created with 36 open file(s).
+p1:-1 0 Submitting change 42351.
+p1:-1 0 Locking 36 files ...
+p1:-1 0 move/delete //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Jason_Test_Scene.unity#2
+p1:-1 0 move/delete //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Jason_Test_Scene.unity.meta#2
+p1:-1 0 move/delete //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Jimmy_Test_Scene.unity#2
+p1:-1 0 move/delete //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Jimmy_Test_Scene.unity.meta#2
+p1:-1 0 move/delete //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Joseph_Test_Scene.unity#2
+p1:-1 0 move/delete //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Joseph_Test_Scene.unity.meta#2
+p1:-1 0 move/delete //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Rui_Test_Scene.unity#2
+p1:-1 0 move/delete //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Rui_Test_Scene.unity.meta#2
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Test_Scenes.meta#1
+p1:-1 0 move/add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Test_Scenes/Jason_Test_Scene.unity#1
+p1:-1 0 move/add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Test_Scenes/Jason_Test_Scene.unity.meta#1
+p1:-1 0 move/add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Test_Scenes/Jimmy_Test_Scene.unity#1
+p1:-1 0 move/add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Test_Scenes/Jimmy_Test_Scene.unity.meta#1
+p1:-1 0 move/add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Test_Scenes/Joseph_Test_Scene.unity#1
+p1:-1 0 move/add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Test_Scenes/Joseph_Test_Scene.unity.meta#1
+p1:-1 0 move/add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Test_Scenes/Rui_Test_Scene.unity#1
+p1:-1 0 move/add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Test_Scenes/Rui_Test_Scene.unity.meta#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Packages/manifest.json#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/ProjectSettings/AudioManager.asset#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/ProjectSettings/ClusterInputManager.asset#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/ProjectSettings/DynamicsManager.asset#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/ProjectSettings/EditorBuildSettings.asset#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/ProjectSettings/EditorSettings.asset#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/ProjectSettings/GraphicsSettings.asset#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/ProjectSettings/InputManager.asset#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/ProjectSettings/NavMeshAreas.asset#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/ProjectSettings/NetworkManager.asset#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/ProjectSettings/Physics2DSettings.asset#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/ProjectSettings/PresetManager.asset#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/ProjectSettings/ProjectSettings.asset#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/ProjectSettings/ProjectVersion.txt#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/ProjectSettings/QualitySettings.asset#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/ProjectSettings/TagManager.asset#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/ProjectSettings/TimeManager.asset#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/ProjectSettings/UnityConnectSettings.asset#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/ProjectSettings/VFXManager.asset#1
+p1:-1 0 Change 42351 submitted.
+e32:TCP receive failed.\nread: socket: WSAECONNRESET\n
+Perforce password is empty. Ignoring login request.
+p1:-1 0 C:\\Users\\sepul\\Perforce\\jasepulveda_SeniorProjectPrototype\\Student_Projects\\Pixel Raven\\PR_SPPrototype_3D\\Assets\\_Scenes\\Test_Scenes\\Scenes.meta
+p1:-1 0 C:\\Users\\sepul\\Perforce\\jasepulveda_SeniorProjectPrototype\\Student_Projects\\Pixel Raven\\PR_SPPrototype_3D\\Assets\\_Scenes\\Test_Scenes\\Scenes\\Game_Scene.unity
+p1:-1 0 C:\\Users\\sepul\\Perforce\\jasepulveda_SeniorProjectPrototype\\Student_Projects\\Pixel Raven\\PR_SPPrototype_3D\\Assets\\_Scenes\\Test_Scenes\\Scenes\\Game_Scene.unity.meta
+p1:-1 0 C:\\Users\\sepul\\Perforce\\jasepulveda_SeniorProjectPrototype\\Student_Projects\\Pixel Raven\\PR_SPPrototype_3D\\Assets\\_Scenes\\Test_Scenes\\Scenes\\MainMenu_Scene.unity
+p1:-1 0 C:\\Users\\sepul\\Perforce\\jasepulveda_SeniorProjectPrototype\\Student_Projects\\Pixel Raven\\PR_SPPrototype_3D\\Assets\\_Scenes\\Test_Scenes\\Scenes\\MainMenu_Scene.unity.meta
+p1:-1 0 C:\\Users\\sepul\\Perforce\\jasepulveda_SeniorProjectPrototype\\Student_Projects\\Pixel Raven\\PR_SPPrototype_3D\\Assets\\_Scenes\\Test_Scenes\\Scenes\\Options_Scene.unity
+p1:-1 0 C:\\Users\\sepul\\Perforce\\jasepulveda_SeniorProjectPrototype\\Student_Projects\\Pixel Raven\\PR_SPPrototype_3D\\Assets\\_Scenes\\Test_Scenes\\Scenes\\Options_Scene.unity.meta
+p1:-1 0 Change 42353 created with 20 open file(s).
+p1:-1 0 Submitting change 42353.
+p1:-1 0 Locking 20 files ...
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts/Effects.meta#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts/Effects/EffectBuilder.cs#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts/Effects/EffectBuilder.cs.meta#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts/Effects/EffectManager.cs#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts/Effects/EffectManager.cs.meta#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts/Entity.meta#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts/Entity/IEntity.cs#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts/Entity/IEntity.cs.meta#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts/Entity/Player.cs#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts/Entity/Player.cs.meta#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts/Loadout.meta#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts/Loadout/Abilities.meta#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts/Loadout/LoadoutObject.cs#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts/Loadout/LoadoutObject.cs.meta#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts/Loadout/Weapons.meta#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts/Loadout/Weapons/IWeapon.cs#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts/Loadout/Weapons/IWeapon.cs.meta#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts/Loadout/Weapons/WeaponAssaultRifle.cs#1
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts/Loadout/Weapons/WeaponAssaultRifle.cs.meta#1
+p1:-1 0 edit //Student_Projects/Pixel Raven/PR_SPPrototype_3D/ProjectSettings/InputManager.asset#2
+p1:-1 0 Change 42353 submitted.
+p1:-1 0 Change 42354 created with 4 open file(s).
+p1:-1 0 Submitting change 42354.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Test_Scenes/Joseph_Test_Scene.unity#2
+p1:-1 0 edit //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scenes/Test_Scenes/Joseph_Test_Scene.unity.meta#2
+p1:-1 0 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts/Effects/Effect.cs#1
+p1:-1 1 add //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts/Effects/Effect.cs.meta#1
+p1:-1 1 Change 42354 submitted.
+p1:-1 1 Change 42355 created with 4 open file(s).
+p1:-1 1 Submitting change 42355.
+p1:-1 1 edit //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts/Entity/IEntity.cs#2
+p1:-1 1 edit //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts/Entity/IEntity.cs.meta#2
+p1:-1 1 edit //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts/Loadout/Weapons/WeaponAssaultRifle.cs#2
+p1:-1 1 edit //Student_Projects/Pixel Raven/PR_SPPrototype_3D/Assets/_Scripts/Loadout/Weapons/WeaponAssaultRifle.cs.meta#2
+p1:-1 1 Change 42355 submitted.
+Perforce password is empty. Ignoring login request.
+Perforce password is empty. Ignoring login request.
+Perforce password is empty. Ignoring login request.
+e32:TCP receive failed.\nread: socket: WSAECONNRESET\n
+e32:TCP receive failed.\nread: socket: WSAECONNRESET\n
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
+e32:TCP connect to neit_repo.neit.edu:1666 failed.\nconnect: 198.7.228.52:1666: WSAECONNREFUSED\n
